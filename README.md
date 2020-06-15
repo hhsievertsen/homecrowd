@@ -10,6 +10,8 @@
 
 - http://www.palacios-huerta.com/docs/REStat.pdf
 
+- https://ideas.repec.org/p/iza/izadps/dp8857.html
+
 ## English version
 
 ![](https://github.com/hhsievertsen/homecrowd/raw/master/homecrowdfigv20200615.png)
