@@ -1,6 +1,8 @@
 # homecrowd
 
-please let me know if you find a mistake. Cheers!
+- this repository hosts the source code for creating the charts below on the lack of home crowd advantage during covid19 Bundesliga matches.
+
+- please let me know if you find a mistake. Cheers!
 
 ## More serious work
 
@@ -8,7 +10,7 @@ please let me know if you find a mistake. Cheers!
 
 - http://www.palacios-huerta.com/docs/REStat.pdf
 
-## English vesion
+## English version
 
 ![](https://github.com/hhsievertsen/homecrowd/raw/master/homecrowdfigv20200615.png)
 
