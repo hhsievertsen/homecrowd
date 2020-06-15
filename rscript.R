@@ -42,7 +42,7 @@ p1<-ggplot(dfbar,aes(x=outcome,y=frac,fill=as.factor(covid19)))+
   geom_text(aes(outcome, frac+1.85, label =lab),family="xkcd",
             position = position_dodge(width = 1),size=3)+theme_xkcd+
   labs(x="",title="A. Overall: Home Win - Draw - Away Win",fill="",y="Fraction of games (in %)")+
-  scale_fill_discrete(name = " ", labels = c("3285 matches before COVID19", "54 matches during COVID19 (no crowd)"))
+  scale_fill_discrete(name = " ", labels = c("3284 matches before COVID19", "55 matches during COVID19 (no crowd)"))
   
 # Scatterplot
 dfp<-df%>%group_by(matchday,covid19,season)%>%summarise(apoints=mean(apoints),awin=mean(awin))%>%
