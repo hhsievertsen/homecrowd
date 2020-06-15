@@ -10,9 +10,9 @@ please let me know if you find a mistake. Cheers!
 
 ## English vesion
 
-![](https://github.com/hhsievertsen/homecrowd/raw/master/homecrowdfig.png)
+![](https://github.com/hhsievertsen/homecrowd/raw/master/homecrowdfigv20200615.png)
 
 
 ## Deutsche Ausgabe
 
-![](https://github.com/hhsievertsen/homecrowd/raw/master/homecrowdfigDE.png)
+![](https://github.com/hhsievertsen/homecrowd/raw/master/homecrowdfigv20200615DE.png)
